@@ -34,6 +34,10 @@ export default function PostPage(props: PageProps<Post>) {
             day: "numeric",
           })}
         </time>
+        <br/><br/>
+        <div class='space-x-5'>
+          Tags: {post.tags.length ? post.tags.map(p => <a href={'/topics/' + p}>{p}</a>) : null}
+        </div>
         <div
           class="mt-8 markdown-body"
           dangerouslySetInnerHTML={{ __html: render(post.content) }}
