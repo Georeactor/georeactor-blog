@@ -9,17 +9,21 @@ export interface Post {
   publishedAt: Date;
   snippet: string;
   content: string;
+  tags: string[];
 }
 
 // Get posts.
-export async function getPosts(): Promise<Post[]> {
+export async function getPosts(topic): Promise<Post[]> {
   const files = Deno.readDir(DIRECTORY);
   const promises = [];
   for await (const file of files) {
     const slug = file.name.replace(".md", "");
     promises.push(getPost(slug));
   }
-  const posts = await Promise.all(promises) as Post[];
+  let posts = await Promise.all(promises) as Post[];
+  if (topic) {
+    posts = posts.filter(p => p.tags.includes(topic))
+  }
   posts.sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime());
   return posts;
 }
@@ -34,5 +38,6 @@ export async function getPost(slug: string): Promise<Post | null> {
     publishedAt: new Date(attrs.published_at),
     content: body,
     snippet: attrs.snippet,
+    tags: attrs.tags.split(","),
   };
 }

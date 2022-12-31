@@ -2,6 +2,7 @@
 title: Google Maps Review Tags
 published_at: 2022-12-04T23:00:00.000Z
 snippet: Quirk of the Google Maps review tag in Japan
+tags: prose,language,maps
 ---
 
 I tend to overprepare before traveling somewhere. For example, I might decide what to order before going to a restaurant.

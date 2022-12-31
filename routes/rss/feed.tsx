@@ -6,7 +6,15 @@ export const handler: Handlers<Post[]> = {
     async GET(req) {
       const posts = (await getPosts()).slice(0, 10);
 
-      return new Response(`<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://cyber.law.harvard.edu/rss/creativeCommonsRssModule.html" version="2.0">
+      return new Response(rssFromPosts(posts), 
+        {
+        headers: { "Content-Type": "application/rss+xml; charset=utf-8" },
+      });
+    },
+};
+
+export function rssFromPosts(posts) {
+  return `<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://cyber.law.harvard.edu/rss/creativeCommonsRssModule.html" version="2.0">
 <channel>
 <title>Georeactor Blog</title>
 <description>Summaries and Code by Nick Doiron</description>
@@ -27,9 +35,5 @@ export const handler: Handlers<Post[]> = {
     <atom:updated>${ post.publishedAt.toISOString() }</atom:updated>
 </item>`).join("\n")}
 </channel>
-</rss>`, 
-        {
-        headers: { "Content-Type": "application/rss+xml; charset=utf-8" },
-      });
-    },
-};
+</rss>`;
+}

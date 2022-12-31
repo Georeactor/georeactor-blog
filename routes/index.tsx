@@ -23,7 +23,7 @@ export default function BlogIndexPage(props: PageProps<Post[]>) {
   );
 }
 
-function PostCard(props: { post: Post }) {
+export function PostCard(props: { post: Post }) {
   const { post } = props;
   return (
     <div class="py-8 border(t gray-200)">

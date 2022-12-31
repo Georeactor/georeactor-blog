@@ -2,6 +2,7 @@
 title: Starting Line
 published_at: 2022-12-04T19:04:00.000Z
 snippet: Test of the blog and RSS
+tags: prose,javascript
 ---
 
 For a while I've been considering maintaining my own blog instead of
