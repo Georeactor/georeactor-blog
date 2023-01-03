@@ -29,7 +29,7 @@ export function PostCard(props: { post: Post }) {
     <div class="py-8 border(t gray-200)">
       <a class="sm:col-span-2" href={`/${post.slug}`}>
         <h3 class="text(3xl gray-900) font-bold">
-          {post.title}
+          {post.title.replace('~', '#')}
         </h3>
         <time class="text-gray-500">
           {new Date(post.publishedAt).toLocaleDateString("en-us", {

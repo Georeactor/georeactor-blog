@@ -26,7 +26,7 @@ export default function PostPage(props: PageProps<Post>) {
         <a class="float-right" href="/rss/feed">RSS Feed</a>
         <br/>
         <br/>
-        <h3 class="text-3xl font-bold">{post.title}</h3>
+        <h3 class="text-3xl font-bold">{post.title.replace('~', '#')}</h3>
         <time class="text-gray-500">
           {new Date(post.publishedAt).toLocaleDateString("en-us", {
             year: "numeric",
