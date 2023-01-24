@@ -40,6 +40,21 @@ From the present day he can look back at backwardness of the system, for example
 
 Yet there were also a few things lost from those days. Shayakhmetov looks back happily at most of his colleagues and college courses. And before a market economy, there were years where his brother's basic job could keep the whole family afloat, or his wife received excellent healthcare in a smaller town. There used to be a network of buses to the smallest villages, which helped families keep in touch.
 
+## Updates to Previous Reads
+
+- A video on cassava gene editing mentioned CRISPR, but also (new terms for me) Zinc finger nuclease and TALEN.
+
+- There's a folk history that Muslim sailors landed in the Americas before Columbus, via https://newbooksnetwork.com/the-muslims-of-latin-america-and-the-caribbean
+
+**[The Checkout - Episode 143: Ken Kolb on Retail Inequality](https://www.thecheckoutradio.com/podcast/episode144-ken-kolb)**
+
+- This is an interesting podcast episode on the actualities / debunking of food deserts. This breaks food desert locations down into a few categories, and vibes well with a recent experiment in Chicago ([Whole Foods closing in Englewood after 6 years](https://blockclubchicago.org/2022/11/21/englewoods-whole-foods-market-is-closed-whats-next-for-the-store-and-neighborhood/)).
+
+- The Blowback Podcast Season 3 (paid access) is an excellently done retelling of the Korean War. From brutal suppression of the Korean worker councils on Jeju, to US empowering former collaborators from the Japanese occupation, to possible bio-warfare and secret movements of nuclear weapons. I'm thinking to listen to it again for anything that I've missed.<br/>
+Extended content includes a mention of a Soviet system, [the Khabarovsk war crimes trials](https://en.wikipedia.org/wiki/Khabarovsk_war_crimes_trials), after the Tokyo trials' failure to include the biological weapons program from WW2.
+
+- This is old news, but Twitter pointed out that Disney's Lightyear is oddly close to *The Forever War*.
+
 <br/>
 <br/>
 <br/>
