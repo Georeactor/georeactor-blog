@@ -48,7 +48,7 @@ Yet there were also a few things lost from those days. Shayakhmetov looks back h
 
 **[The Checkout - Episode 143: Ken Kolb on Retail Inequality](https://www.thecheckoutradio.com/podcast/episode144-ken-kolb)**
 
-- This is an interesting podcast episode on the actualities / debunking of food deserts. This breaks food desert locations down into a few categories, and vibes well with a recent experiment in Chicago ([Whole Foods closing in Englewood after 6 years](https://blockclubchicago.org/2022/11/21/englewoods-whole-foods-market-is-closed-whats-next-for-the-store-and-neighborhood/)).
+- This is an interesting podcast episode on the actualities / debunking of food deserts. This breaks food desert locations down into a few categories, and vibes well with a recent experiment in Chicago ([Whole Foods closing in Englewood after 6 years](https://blockclubchicago.org/2022/11/21/englewoods-whole-foods-market-is-closed-whats-next-for-the-store-and-neighborhood/)). Update 1/26/23: It became a Save-A-Lot.
 
 - The Blowback Podcast Season 3 (paid access) is an excellently done retelling of the Korean War. From brutal suppression of the Korean worker councils on Jeju, to US empowering former collaborators from the Japanese occupation, to possible bio-warfare and secret movements of nuclear weapons. I'm thinking to listen to it again for anything that I've missed.<br/>
 Extended content includes a mention of a Soviet system, [the Khabarovsk war crimes trials](https://en.wikipedia.org/wiki/Khabarovsk_war_crimes_trials), after the Tokyo trials' failure to include the biological weapons program from WW2.
