@@ -2,7 +2,7 @@
 title: Where do flag Emoji and TLDs come from?
 published_at: 2023-01-16T15:40:00.000Z
 snippet: Alderney and Sark case study - crown dependencies, CLDR, etc.
-tags: prose,language
+tags: prose,language,sark
 ---
 
 ### Intro to Crown Dependencies
