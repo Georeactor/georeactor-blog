@@ -34,11 +34,13 @@ If you want to do a deep dive into street food urbanism and health and living wa
 
 ## Joe's Steam Rice Roll
 
-A Hong Kong breakfast dish of meat and veggies wrapped in rice noodle sheets. It's usually compared to an omelette, but maybe it's more of a lasagna? This is in a tiny indoor mall with a few stalls and a bodega. Joe's is the kitchen on your left immediately after entering. I ordered mine with pork and egg. For the veggies I said "any is OK" and they put corn, bean sprouts, and lettuce.
+A Hong Kong breakfast dish (cheung fun) with meat and veggies wrapped in rice noodle sheets. It's usually compared to an omelette, but may be more of a lasagna? This is in a tiny indoor mall with a few stalls and a bodega. Joe's is the kitchen on your left immediately after entering. I ordered mine with pork and egg. For the veggies I said "any is OK" and they put corn, bean sprouts, and lettuce.
 
 ++ Would get these again - in fact I may try to cook this at home.
 
 There are ~6 stools at the counter with people coming and going, but I got mine as takeout. *Cash only*
+
+Update: [NY Times Video Interview with Joe](https://www.youtube.com/watch?v=Sq76i7tiDtE)
 
 <img src="/blog-images/flushing-3.jpg"/>
 
