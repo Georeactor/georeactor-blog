@@ -127,6 +127,8 @@ So many things called Jigsaw these days =\. Microsoft (+1 Stanford contributor) 
 
 Here they allow Codex (as in Copilot) and GPT-3 to generate multiple candidate answers for a Pandas operation. Then they use static analysis and comparisons to AutoPandas (2018 library) to choose and modify the suggested programs.
 
+**Note: this paper repeated from https://mapmeld.medium.com/ml-arxiv-haul-4-74081faff03e**
+
 <hr/>
 
 <blockquote>
@@ -228,6 +230,8 @@ Large-scale language models often learn behaviors that are misaligned with user 
 </blockquote>
 
 NLP + reinforcement learning, this time with un-learning. Examples of unlearning include toxic text (RealToxicityPrompts tie-in) and repetition.
+
+**Previously covered on: https://mapmeld.medium.com/ml-arxiv-7-97dbc8444e4d**
 
 <hr/>
 
