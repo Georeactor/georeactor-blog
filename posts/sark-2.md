@@ -1,7 +1,7 @@
 ---
 title: Flag of Sark Emoji - The High Council
 published_at: 2023-02-10T16:05:00.000Z
-snippet: An encouraging update on Sark from the Unicode Technical Committee and Emoji Subcomittee
+snippet: An encouraging update on Sark from the Unicode Technical Committee and Emoji Subcommittee
 tags: prose,sark
 ---
 
