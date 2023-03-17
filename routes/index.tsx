@@ -19,6 +19,9 @@ export default function BlogIndexPage(props: PageProps<Post[]>) {
       <div class="mt-8">
         {posts.map((post) => <PostCard post={post} />)}
       </div>
+
+      <script async src="//static.getclicky.com/101402051.js"></script>
+      <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101402051ns.gif" /></p></noscript>
     </main>
   );
 }

@@ -42,6 +42,9 @@ export default function PostPage(props: PageProps<Post>) {
           class="mt-8 markdown-body"
           dangerouslySetInnerHTML={{ __html: render(post.content) }}
         />
+
+        <script async src="//static.getclicky.com/101402051.js"></script>
+        <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101402051ns.gif" /></p></noscript>
       </main>
     </>
   );
