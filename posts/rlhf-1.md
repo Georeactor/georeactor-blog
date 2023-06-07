@@ -45,6 +45,8 @@ Whose choices guide RLHF? It's difficult to say for new content, but in the orig
 
 I think the idea is that the model can be tuned to summarize on content within general knowledge, and that will transfer that to expert-level content, but who knows if that works.
 
+**Update June 2023**: This was an interesting podcast episode on prompt engineering and RLHF; essentially RLHF is more "respond to a question with an accurate answer instead of mimicking style or asking more questions" than an idea control tool. https://thegradientpub.substack.com/p/riley-goodside-the-art-and-craft#details
+
 <br/>
 <br/>
 <br/>
