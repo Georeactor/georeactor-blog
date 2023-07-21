@@ -1,5 +1,5 @@
 ---
-title: Reading Blog - June 2023
+title: Reading Blog - July 2023
 published_at: 2023-07-21T01:15:00.000Z
 snippet: Chicago, museums, and jury nullification
 tags: books
