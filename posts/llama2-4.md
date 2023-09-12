@@ -78,6 +78,12 @@ gpt2 (small, no Indonesian specific training)
 |xcopa_id       |      0|acc   |0.5120|±  |0.0224|
 |xstory_cloze_id|      0|acc   |0.4553|±  |0.0128|
 
+mrm8488/bloom-7b1-8bit on A100 / batch size 32
+|     Task      |Version|Metric|Value |   |Stderr|
+|---------------|------:|------|-----:|---|-----:|
+|xcopa_id       |      0|acc   |0.5320|±  |0.0223|
+|xstory_cloze_id|      0|acc   |0.4838|±  |0.0129|
+
 cahya/gpt2-large-indonesian-522M
 |     Task      |Version|Metric|Value |   |Stderr|
 |---------------|------:|------|-----:|---|-----:|
@@ -97,7 +103,7 @@ Here's the final notebook: https://colab.research.google.com/drive/1ZcUbygUXUbEV
 
 The accuracy of both models unexpectedly slightly declined when given the three examples? And when I tried two examples, the gpt2-large-indonesian accuracy went up a little on the XCOPA task, but still underperformed on the second task. Conclusion: I should come up with a way to send in a better prompt and evaluation plan.
 
-BLOOM should also be tested, since they include Indonesian (paper says 1.2% of training corpus).
+BLOOM should also be further tested, since they include Indonesian (paper says 1.2% of training corpus).
 
 I'm hoping to share the quantized mGPT, get feedback, and see about doing LoRA / QLoRA finetuning before sending prompts into the evaluation.
 

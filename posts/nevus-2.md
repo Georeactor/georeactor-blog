@@ -21,7 +21,7 @@ Without much I could actively do about the problem in the past weeks, I'd alread
 
 - Got around to trying recipes from the two cookbooks at home, made pasta with the pasta roller machine, etc.
 
-- I reached out to an International Law & AI person from 2020, and had a discussion about new developments in the space. I could co-teach a day or two of a course in Berlin!
+- I reached out to someone about co-teaching a course!
 
 
 I had planned to write an email to my brothers and struggled about whether to downplay this or summarize or ask them to pick bucket list items, but now that it feels like a lot of nothing, I can just tell them in person sometime.
