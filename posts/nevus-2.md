@@ -17,7 +17,7 @@ Without much I could actively do about the problem in the past weeks, I'd alread
 
 - Tandem skydive and BASE jump programs have physical requirements, which is another motivation for me to work on health. I talked to someone (who's also never done this) and we agreed that a skydive would be better because it's a longer experience. I also looked into several places which do bungee jumps (including a "wet" bungee jump where you get dunked into the water).
 
-- Someone in my network has a similar eye problem and has been avoiding following up (they move around a lot), so I told them about my positive outcome and encouraged them not to delay.
+- Someone in my network has a similar eye problem, so I told them about my positive outcome and encouraged them not to delay getting this particular test.
 
 - Got around to trying recipes from the two cookbooks at home, made pasta with the pasta roller machine, etc.
 
