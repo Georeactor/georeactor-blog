@@ -68,18 +68,7 @@ The interviews were conducted in 2021, so there's a lot of talking about school 
 
 https://www.whoshatontheflooratmywedding.com/
 
-A 13-episode investigation which ran from late 2020 to early 2021. Extremely silly and extremely Australian podcast about a rogue poop pile. Sadly I do think this needs a spoiler, accusations are thrown, but the end is not tied up in a neat knot.
-
-## Wizards of Waverly Pod
-
-https://www.youtube.com/@WizardsPod/videos
-
-Uh this is embarrassing but I recently found this podcast. Linked to the YouTube since it is often visual. Started in early 2023, 25 episodes in, and now on hiatus for the SAG strike.
-
-David played the dad and Jennifer played the best friend on Disney's *Wizards* sitcom. This may or may not be fishing around for an official reunion or reboot?<br/>
-I was vaguely aware that Jennifer became a nurse in real life. But I knew very little about auditions, Disney contracts and office politics, how does a serious actor feel about getting cast on a kids show? Etc. Many actors and behind-the-camera people have shown up for in-person interviews, and they even got Selena Gomez on a video call. It's very wholesome that everyone has such praise for each other, and that they call out any fat-shaming or homophobic jabs from the series.
-
-A weird thing is that they'll have an interview, discuss one episode, and answer fan questions. They want to ask the guests about all of their experiences and stories from auditioning to possible reunions, so it's more open-ended than a 1:1 rewatch. The questions tend to repeat, too. I don't know if they could do one "Auditions Advice" episode and one on "Directing a TV Episode" and one on "Standard and Practices", because they come up a lot yet they haven't gone deep into it yet.
+A 13-episode investigation which ran from late 2020 to early 2021. Extremely silly and extremely Kiwi podcast about a rogue poop pile. Sadly I do think this needs a spoiler, accusations are thrown, but the end is not tied up in a neat knot.
 
 <br/>
 <br/>
