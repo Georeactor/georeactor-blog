@@ -18,7 +18,7 @@ When I looked at the source data in the Map Data view, the full name appeared to
 <img src="/blog-images/osm-2.png"/>
 
 <br/>
-Then in the iD editor, I see a third rendering. This one is in line with the English name having (mshko) in parentheses at the end.
+Then in the iD editor, I see a third rendering. This one is in line with the English name having (mshko) in parentheses at the end. Something strange must be happening if I see the same text appearing three ways.
 <br/><br/>
 
 <img src="/blog-images/osm-3.png"/>
@@ -34,17 +34,17 @@ When I paste the name into the Chrome Ctrl+F or address bar, it matches the Open
 So what's the real name? I began looking at the string character by character.<br/>
 The correct string is شەقامی شەوکەت سەعید (مشکۆ) ; Let's talk about it.
 
-The user who wrote the name mistakenly used ( - the open parenthesis - twice. One became the 0th character of the string and one was at the start of the "mshko" string.
+The user who wrote the name made a mistake and used ( - the open parenthesis - twice. One became the 0th character of the string and one was at the start of the "mshko" string.
 
 Chrome and the tile renderer were correctly recognizing right-to-left text, and rendering both open parentheses opening toward the left.
 
-On the Map Data viewer, my understanding  that the full string was wrapped by parentheses was caused by this being a left-to-right language layout table.<br/>
-In a wider cell, the string would look like it did in iD - it's showing one open parenthesis at the left end of the text, then switches to printing Arabic with another open parenthesis before the word مشکۆ. In other words, both of the parens in this line are the character **(**.
+On the Map Data viewer, my perception that the full string was wrapped by parentheses was caused by this being in a left-to-right language layout.<br/>
+When the cell is wide enough for the text to be on one line, the string looks like it did in the iD editor input - it's showing one open parenthesis at the left end of the text, then switches to printing Arabic with another open parenthesis before the word مشکۆ. Both of the parens in this line are the character **(**, just the left-most one is appearing out of sequence from where it would be in a right-to-left language string.
 
 <img src="/blog-images/osm-5.png"/>
 
 <br/><br/>
-If we set CSS `direction: rtl`, or HTML `dir="auto"` (preferable for multilingual context) on this table cell, then it reveals the mismatched parentheses, like we saw in the tiles and Chrome:
+When we set CSS `direction: rtl`, or HTML `dir="auto"` (preferable for multilingual context) on this table cell, then it reveals the mismatched parentheses of the original string, like we saw in the tiles and Chrome:
 <br/><br/>
 
 <img src="/blog-images/osm-6.png"/>
