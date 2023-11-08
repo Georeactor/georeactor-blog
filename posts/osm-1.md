@@ -39,7 +39,7 @@ The user who wrote the name mistakenly used ( - the open parenthesis - t
 Chrome and the tile renderer were correctly recognizing right-to-left text, and rendering both open parentheses opening toward the left.
 
 On the Map Data viewer, my understanding  that the full string was wrapped by parentheses was confused by this being a left-to-right language layout table.<br/>
-With a wider cell, the string looks like it did in iD - it's showing one open parenthesis at the left end of the text, then printing Arabic with an open parenthesis before the word مشکۆ.
+With a wider cell, the string would look like it did in iD - it's showing one open parenthesis at the left end of the text, then starts printing Arabic with an open parenthesis before the word مشکۆ.
 
 <img src="/blog-images/osm-5.png"/>
 
@@ -56,7 +56,7 @@ I've corrected the name of this way on OpenStreetMap, and the new name renders c
 
 Setting the tag value column cells to be `dir="auto"` - this would help spot errors and being in line with the OSM tiles. I made a pull request on the OpenStreetMap website repo, roughly summarizing the problem and this one-liner fix.
 
-Changing the name input of iD editor - this would affect the alignment of text input, and could weird people out. iD is going through some kind of PR pause / long-needed canvas/GL rewrite, so I'll hold off on proposing changes for now.
+Changing the name input of iD editor - this would affect the left-alignment of text input, and could take people by surprise. iD is going through some kind of PR pause / long-needed canvas/GL rewrite, so I'll hold off on proposing changes for now.
 
 <br/>
 <br/>
