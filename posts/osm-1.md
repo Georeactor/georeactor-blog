@@ -18,7 +18,7 @@ When I looked at the source data in the Map Data view, the full name appeared to
 <img src="/blog-images/osm-2.png"/>
 
 <br/>
-Then in the iD editor, I see a third rendering. This one is in line with the English name having (*mshko*) in parentheses at the end.
+Then in the iD editor, I see a third rendering. This one is in line with the English name having (mshko) in parentheses at the end.
 <br/><br/>
 
 <img src="/blog-images/osm-3.png"/>
@@ -38,8 +38,8 @@ The user who wrote the name mistakenly used ( - the open parenthesis - t
 
 Chrome and the tile renderer were correctly recognizing right-to-left text, and rendering both open parentheses opening toward the left.
 
-On the Map Data viewer, my understanding  that the full string was wrapped by parentheses was confused by this being a left-to-right language layout table.<br/>
-With a wider cell, the string would look like it did in iD - it's showing one open parenthesis at the left end of the text, then starts printing Arabic with an open parenthesis before the word مشکۆ.
+On the Map Data viewer, my understanding  that the full string was wrapped by parentheses was caused by this being a left-to-right language layout table.<br/>
+In a wider cell, the string would look like it did in iD - it's showing one open parenthesis at the left end of the text, then switches to printing Arabic with another open parenthesis before the word مشکۆ. In other words, both of the parens in this line are the character **(**.
 
 <img src="/blog-images/osm-5.png"/>
 
