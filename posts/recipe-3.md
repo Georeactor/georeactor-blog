@@ -87,6 +87,8 @@ https://cooking.nytimes.com/recipes/1020975-spicy-meatballs-with-chickpeas
 
 Made with the other half-pound of lamb from the kofta meatballs recipe, reduced to one can/box of chickpeas.
 
+Added a dried ancho chile to simmer with the meatballs, then after giving the chickpeas some heat in olive oil, added them for the last 5+ minutes.
+
 ## Some Fails
 
 ### Pane Bianco
