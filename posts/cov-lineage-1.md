@@ -34,7 +34,7 @@ So here we are, two years later, and I wondered where these variants are now.
 
 ### The Literature
 
-Google Scholar found 137 citations of the paper. Most of the time, the citation is mixed in with other papers to show basic awareness of covid sequencing:
+Google Scholar found 137 citations of the paper. Most of the time, the citation is mixed in with other papers to introduce covid sequencing:
 
 > Finally, recent advances in computational analysis of wastewater samples allows for both clinically observed lineage and cryptic lineage detection, i.e., virus lineages that are not being detected in the human population but are still circulating - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10689440/
 
@@ -45,8 +45,6 @@ Or to base their research on these proven sequencing methods:
 Sometimes it's cited for basic facts?
 
 > SARS-CoV-2 RNA has been detected in wastewater in Australia and the USA. - https://www.sciencedirect.com/science/article/pii/S2772985023000546
-
-> Its widespread circulation within human communities and possible animal reservoirs allows the SARSCoV-2 to mutate frequently - https://www.nature.com/articles/s41467-023-41109-9
 
 A South Africa paper [SARS-CoV-2 genomic surveillance in wastewater as a model for monitoring evolution of endemic viruses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10564906/) is closer to what I'm looking for - their own mystery lineages:
 
