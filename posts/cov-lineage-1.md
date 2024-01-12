@@ -2,7 +2,7 @@
 title: Revisiting the Cryptic Lineages
 published_at: 2024-01-04T06:54:00.000Z
 snippet: Resolving an epidemiology mystery from 2022
-tags: prose,health
+tags: prose,health,bioseries
 ---
 
 **Resolving an epidemiology mystery from 2022**
