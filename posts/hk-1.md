@@ -2,7 +2,7 @@
 title: Hong Kong Urbanism Notes
 published_at: 2024-02-05T23:40:00.000Z
 snippet: And what to do when stranded at the Hong Kong Zhuhai Macao Boundary Facility
-tags: prose,travel
+tags: prose,travel,maps
 ---
 
 **And what to do when stranded at the Hong Kong Zhuhai Macao Boundary Facility**
