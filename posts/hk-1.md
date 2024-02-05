@@ -9,7 +9,7 @@ tags: prose,travel
 
 I recently spent 17 hours in Hong Kong in between my flights from Chicago and onward to Indonesia. If this were my first visit then it would be totally insufficient, but for me this was an interesting challenge to adjust to the timezone, fit in a couple of new locations, and come back to the airport refreshed.
 
-Kwun Tong is a former industrial area in the eastern part of Kowloon. The area is getting some new development, but you still see some auto repair stuff and not many restaurants open mornings or late-night. To and from the airport you want to do A29 bus (more on that later).
+Kwun Tong is a former industrial area in the eastern part of Kowloon. The area is getting some new development, but you still see some auto repair stuff and not many restaurants open mornings or late-night. To and from the airport you want to do A29 double-decker bus (more on that later).
 
 My main goal was to visit the Kowloon Walled City Park, plus I wanted to either hike in a natural location (Devil's Peak) or "hike" through the city on the way to the Walled City. Because of misty weather and time constraints, I used Google Maps to find an interesting route through the city.
 
@@ -93,7 +93,7 @@ In November 2023, a Hong Kong legislator for East Kowloon noted that few groups 
 
 ## Stranded at the Boundary Facility
 
-I returned by the A29 bus, and assumed that the airport would be the final stop where everyone would exit. Somehow I believed that our stop was at a crosswalk or something and a few people were getting to the door... next thing I knew we were headed out of the airport, past the former quarantine hospital/dorms, to the Hong Kong-Zhuhai-Macao Boundary Facility. This opened in 2018 for buses and permitted vehicles to cross between Hong Kong, Macao, and mainland China (to the north of Macao).
+I returned by the A29 bus, and assumed that the airport would be the final stop where everyone would exit. I was on the top deck and somehow believed that our stop was at a crosswalk or something and a few people were getting to the door... next thing I knew we were headed out of the airport, past the former quarantine hospital/dorms, to the Hong Kong-Zhuhai-Macao Boundary Facility. This opened in 2018 for buses and permitted vehicles to cross between Hong Kong, Macao, and mainland China (to the north of Macao).
 
 This rule might be more of an anti-loitering thing, but signs forbid entering the boundary facility without a valid ticket. Already concerned about missing my flight, I found an outdoor staircase down to the pick-up area. This part is not super well-labeled, but if you go into the Hong Kong city bus platform, the first one on the left is B4 bus to the airport (signage did not help me much, I just noticed a lot of people queueing).<br/>
 The bus fare is 9 HKD. They **don't** accept tap-to-pay credit cards or give change, so have some coins or a bill on you.
