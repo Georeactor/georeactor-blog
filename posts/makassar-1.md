@@ -83,7 +83,7 @@ Speaking of Lontara, I think Lego-Lego is also going for the script vibe?
 
 A portion of this hub island between the bridge and the mosque will become a public park.  I did see a children's soccer practice, and multiple people jogging or biking. The inclusion of large blocks for sitting or climbing is giving New Urbanism.
 
-Here's where I worry - due to the tropical habitat, you could see nature had begun reclaiming the area - filling in between tiles, obscuring walkways and drains. With so few visitors, the trash cans must be going unmaintained for weeks.
+Here's where I worry - due to the tropical environment, you could see nature had begun reclaiming the area - filling in between tiles, obscuring walkways and drains. With so few visitors, the trash cans must be going unmaintained for weeks.
 
 <img src="/blog-images/mak-grass3.jpg"/>
 <img src="/blog-images/mak-grass2.jpg"/>
