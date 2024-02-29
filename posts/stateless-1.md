@@ -23,7 +23,9 @@ Two pieces of optimism:
 - seeing someone at the event in Malaysia, they have some type of travel document and continue working to help others
 - Colombia was highlighted for resolving issues around Colombians born in Chile, and making sure Venezuelan children could attend school
 
-On the second day, several organizations and stateless people realized their dream by launching the Global Movement Against Statelessness. Having seen an uncomfortable number of "we're starting a new organization" meetings in Haiti, I wondered what this meant about the health of existing NGOs. I now believe this is set up for the Euro/Anglo-centric NGOs to transfer some control and functions (including a next conference?) to stateless people without replacing their staff. I would compare it to how Humanitarian OpenStreetMap Team (HOT) exists as its own nonprofit. Hopefully I read this correctly.
+On the second day, several organizations and stateless people realized their dream by launching the Global Movement Against Statelessness. Having seen an uncomfortable number of "we're starting a new organization" meetings in Haiti, I wondered what this meant about the health of existing NGOs. I now believe this is set up for
+stateless people to take on some control and functions (including a next conference?)
+from the traditional NGOs. I would compare it to how Humanitarian OpenStreetMap Team (HOT) exists as its own nonprofit. Hopefully I read this correctly.
 
 During summer 2020, ISI created a special COVID-19 Emergency Statelessness Fund. After my experience working with nonprofits which struggle to adapt, reorganize, and conclude their lines of work, it was encouraging to see them close the program at the end of 2022 and publish a report *Together We Did!* At a conference session about this, several recipients described the "resourcing" (I think cash?) as vital for being so fast and responsive to changing situations (example: one organization used this as a bridge while they applied for traditional grants). The state also was uncharacteristically open to stateless NGOs when it came to food relief, health info, and vaccinations, making some lasting connections.
 
