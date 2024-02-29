@@ -15,9 +15,9 @@ It's common to think of someone accidentally being stateless by being born on an
 
 When explaining the conference to my network, the general question has been whether these people are "truly" stateless,
 thinking (especially when it comes to migration) that this person *must* have a passport waiting somewhere else. The Peter McMullin Centre on Statelessness
-has info on *de facto* statelessness. The thought experiment which I gave was, if someone is the child of post-Soviet refugees, who moved to the US as a baby and has never been to Russia, maybe there is a road where they
-fly to Russia and face their court system to assert a right to a passport, but they have lived their life in the US,
-so what would motivate them to do the legal battle in Russia and not their active home?
+has info on *de facto* statelessness. The thought experiment which I gave was, if someone is the child of post-Soviet refugees, who moved to the US as a baby and has never been to Russia, maybe there is a path where they
+could collect documents and witness statements, fly to Russia, and face their court system, but they have lived their life in the US, the documentation is not going to be so clean,
+so what would motivate them to fight the legal battle in Russia and not their current, active home?
 
 Two pieces of optimism:
 - seeing someone at the event in Malaysia, they have some type of travel document and continue working to help others
