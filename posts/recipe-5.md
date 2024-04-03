@@ -94,6 +94,8 @@ Tahu telur tek-tek -this is boiled egg, tofu, and some extras (in this case, pot
 
 <img src="/blog-images/plate-5.jpg"/><br/>
 
+In Tanjung Pinang I had a similar dish with siomay dumplings in it too - internet suggests this is [siomay Bandung](https://keasberry.com/recipes/indonesian-inspired-street-food-trader-joes-siomay-bandung/)
+
 I missed another Surabaya signature dish: bebek goreng (fried duck). I also failed to get kue lapis (a colorful layer cake) here, but did get it in Tanjung Pinang. Are they different by region?
 
 Tempeh mendoan from Sakaw Coffee, Tawangmangu - these are flat tempeh sheets, battered and fried like fish & chips, served with some tangy sauce. I could see this doing well in the US.<br/>
