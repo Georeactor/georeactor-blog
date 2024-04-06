@@ -5,17 +5,17 @@ export const handler: Handlers<Post[]> = {
   async GET(req, ctx) {
     const yum = req.headers.get("host")?.includes("yum");
     const posts = await getPosts(yum ? "life" : false);
-    posts.yum = yum;
     return ctx.render(posts);
   },
 };
 
 export default function BlogIndexPage(props: PageProps<Post[]>) {
   const posts = props.data;
+  const yum = posts.find(p => p.tags.includes("food") || p.tags.includes("travel"));
   return (
     <main class="max-w-screen-md px-4 pt-16 mx-auto">
       <h1 class="text-5xl font-bold">
-        {props.yum ? "Nick's Food Blog" : "Georeactor Blog"}
+        {yum ? "ND Food & Travel Posts" : "Georeactor Blog"}
       </h1>
       <a class="float-right" href="/rss/feed">RSS Feed</a>
       <div class="mt-8">
