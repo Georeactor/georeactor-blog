@@ -2,8 +2,10 @@ import { Handlers, PageProps } from "$fresh/server.ts";
 import { getPost, getPosts, Post } from "@/utils/posts.ts";
 
 export const handler: Handlers<Post[]> = {
-  async GET(_req, ctx) {
-    const posts = await getPosts();
+  async GET(req, ctx) {
+    const yum = req.headers.get("host")?.includes("yum");
+    const posts = await getPosts(yum ? "life" : false);
+    posts.yum = yum;
     return ctx.render(posts);
   },
 };
@@ -13,15 +15,12 @@ export default function BlogIndexPage(props: PageProps<Post[]>) {
   return (
     <main class="max-w-screen-md px-4 pt-16 mx-auto">
       <h1 class="text-5xl font-bold">
-        Georeactor Blog
+        {props.yum ? "Nick's Food Blog" : "Georeactor Blog"}
       </h1>
       <a class="float-right" href="/rss/feed">RSS Feed</a>
       <div class="mt-8">
         {posts.map((post) => <PostCard post={post} />)}
       </div>
-
-      <script async src="//static.getclicky.com/101402051.js"></script>
-      <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101402051ns.gif" /></p></noscript>
     </main>
   );
 }
