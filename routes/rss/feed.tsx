@@ -29,8 +29,8 @@ export function rssFromPosts(posts) {
     <title><![CDATA[ ${post.title} ]]></title>
     <description><![CDATA[ ${ render(post.snippet) } ]]></description>
     <content:encoded><![CDATA[ ${ render(post.content) } ]]></content:encoded>
-    <link>https://blog.georeactor.com/posts/${post.slug}</link>
-    <guid isPermaLink="true">https://blog.georeactor.com/posts/${post.slug}</guid>
+    <link>https://blog.georeactor.com/${post.slug}</link>
+    <guid isPermaLink="true">https://blog.georeactor.com/${post.slug}</guid>
     <dc:creator>Nick Doiron</dc:creator>
     <pubDate>${ post.publishedAt.toUTCString() }</pubDate>
     <atom:updated>${ post.publishedAt.toISOString() }</atom:updated>

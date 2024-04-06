@@ -12,6 +12,7 @@ export const handler: Handlers<Post> = {
 
 export default function PostPage(props: PageProps<Post>) {
   const post = props.data;
+  const yum = post.tags.includes("food") || post.tags.includes("travel");
   return (
     <>
       <Head>
@@ -21,7 +22,7 @@ export default function PostPage(props: PageProps<Post>) {
       </Head>
       <main class="max-w-screen-md px-4 pt-16 mx-auto">
         <h1 class="text-5xl font-bold">
-          <a href="/">Georeactor Blog</a>
+          <a href="/">{yum ? "ND Food & Travel Posts" : "Georeactor Blog"}</a>
         </h1>
         <a class="float-right" href="/rss/feed">RSS Feed</a>
         <br/>
