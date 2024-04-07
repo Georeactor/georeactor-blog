@@ -92,13 +92,13 @@ Party embraced Taiping to establish historical roots for itself and its policies
 Despite the Qing Dynasty destroying all signs of the rebellion and family line,
 archaeologists were sent as early as 1959-61 to recover what they could.
 
-For complicated reasons the glorification of the Taiping Rebellion continues, with some very strong wording in the 
+For complicated reasons the glorification of the Taiping Rebellion continues, with some strong wording in the 
 English texts of the site about "feudalism oppression and foreign capitalist invasion"
 and "great progresses ... made in all fields". This gloss is applied both to facts
 and to what is omitted.
 The movement "inspired" concurrent rebellions so is claimed to have covered half of China. Here
 the killing of 20,000 followers of a paranoid self-appointed god/emperor
-is treated softly:
+is treated as an oversight:
 
 <img src="/blog-images/gz-text.jpg" width="400"/>
 <br/><br/>
