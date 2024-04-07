@@ -1,5 +1,5 @@
 ---
-title: Recipes Return / Food Tour
+title: Recipes Return
 published_at: 2024-04-03T01:25:00.000Z
 tags: prose,food,travel
 ---
