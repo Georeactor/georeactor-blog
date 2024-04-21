@@ -37,7 +37,7 @@ In 1996, President Clinton opened up the possibility of ordering more B-2s. Afte
 
 > The B-2, like almost all airplanes, can operate in the rain. The problems mentioned in the editorial are actually old news - and they have been fixed.
 
-Ultimately Congress left it to the White House, [which declined to add B-2s](https://www.nytimes.com/1997/09/20/us/clinton-wins-round-on-b-2-bomber-s-fate.html).
+Ultimately Congress left it to the White House, [which declined to add B-2s](https://www.nytimes.com/1997/09/20/us/clinton-wins-round-on-b-2-bomber-s-fate.html), only converting a test plane to military use.
 
 In 1998, Clinton ordered air strikes across Iraq in Operation Desert Fox. This was the first combat use of the **B-1**. The B-2 was still unused.
 
