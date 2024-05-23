@@ -1,5 +1,5 @@
 ---
-title: Sark Emoji Episode 8 - The Only Exception
+title: Sark Emoji Episode 8 - shout out vs left out
 published_at: 2024-05-22T21:40:00.000Z
 tags: prose,sark
 ---
@@ -29,7 +29,7 @@ The Verge, Business Insider, BGR, Mashable, DigitalTrends, 9to5Mac, MacObserver,
 They are wrong.
 
 On Twitter, the one mention of Sark was from the author of EmojiMashupBot, who said "terrible nouvelle pour les bretons".
-Sorry Breton, not this time.
+Sorry Bretons/Brittany, not this time.
 
 <br/>
 <br/>
