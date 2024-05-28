@@ -23,7 +23,7 @@ A commenter there adds:
 
 > i'm happy for the people of Sark, but at first i thought maybe it was going to be a flag to denote "sarcasm," which would be pretty helpful, i think.
 
-"RollingOut" also gives it a quick mention.
+MacWorld and RollingOut also gave it a quick mention.
 
 The Verge, Business Insider, BGR, Mashable, DigitalTrends, 9to5Mac, MacObserver, CultOfMac, Apple Insider, MacRumors, Pocket-Lint, Dexerto, TweakTown, XDA-Developers, and TrustedReviews ran stories without mentioning the flag.
 They are wrong.
