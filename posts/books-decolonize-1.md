@@ -29,7 +29,7 @@ Muslim leaders and populations were reluctant to join India. When the leader of 
 Calling a referendum anywhere was risky for India, as they knew that they would not win a comparable vote in Muslim-majority Kashmir. Negotiations between India and the maharaja of Kashmir led to looting by tribes unofficially backed by Pakistan.
 </li>
 <li>
-Hyderabad (about the size of the UAE or Czechia) spent the year after Partition exploring independence or joining with surrounding states - a potential  third Pakistan landlocked inside of a weakened India. A blockade and 4-day invasion ended the Nizam's rule, and also led to [the massacre of Muslim civilians](https://en.wikipedia.org/wiki/Hyderabad_massacres).
+Hyderabad (about the size of Kansas) spent the year after Partition exploring independence or joining with surrounding states - a potential  third Pakistan landlocked inside of a weakened India. A blockade and 4-day invasion ended the Nizam's rule, and also led to <a href="https://en.wikipedia.org/wiki/Hyderabad_massacres" target="_blank">the massacre of Muslim civilians</a>.
 </li>
 </ul>
 
@@ -91,11 +91,11 @@ An affiliated organization chose someone else as their preferred successor. Afte
 
 An official report on the Hyderabad massacre remained classified for decades. During Modi's 2012 campaign, where the 2002 Gujarat riots were relevant, transparency for Hyderabad reentered public discourse. In 2013 a copy appeared at the Nehru Memorial Museum.
 
+[Sidney Cotton](https://en.wikipedia.org/wiki/Sidney_Cotton), pilot, spy, and gun-runner between Hyderabad and Pakistan, befriended Ian Fleming and is believed (especially in Australia) to be an inspiration for James Bond.
+
 During the final years of independent Sikkim, the King had a son (currently [a monk](https://en.wikipedia.org/wiki/Wangchuk_Namgyal)) and later married an American.
 After the dissolution of their country and marriage, the former Queen lives in Brooklyn ([2013 interview](https://www.youtube.com/watch?v=MOKLBrPTj6s&ab_channel=YaleUniversity)).
 In 2023, BBC Hindi reported on a conspiracy theory that she was CIA?
-
-[Sidney Cotton](https://en.wikipedia.org/wiki/Sidney_Cotton), pilot, spy, and gun-runner between Hyderabad and Pakistan, befriended Ian Fleming and is believed (especially in Australia) to be an inspiration for James Bond.
 
 I don't know when I would do this, but based on vibes, I'd like to visit Goa, Hyderabad, and Sikkim on a future India trip. Also I haven't given up on visiting Bodh Gaya (where the Buddha sat under the tree).
 
