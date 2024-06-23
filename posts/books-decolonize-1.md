@@ -42,7 +42,7 @@ Junagadh serves as one example of this, with multiple enclaves and cutouts. It w
 Nearby Baroda/Vadodara (about the size of New Jersey) refused entry into 1949.
 
 Agencies combining multiple states had been created in the early 20th century. From the [Punjab States Agency](https://en.wikipedia.org/wiki/Punjab_States_Agency),
-one state joined Pakistan, some joined India at independence, and others ([Jind](https://en.wikipedia.org/wiki/Jind_State) and [Bilaspur](https://en.wikipedia.org/wiki/Bilaspur_State_\(princely_state\), together about the size of Rhode Island) waited into 1948.
+one state joined Pakistan, some joined India at independence, and others ([Jind](https://en.wikipedia.org/wiki/Jind_State) and [Bilaspur](https://en.wikipedia.org/wiki/Bilaspur_State_\(princely_state\)), together about the size of Rhode Island) waited into 1948.
 
 States with loyal subjects were now turning on the princes, with the people wanting to join an independent India. The Indian government began a pressure campaign by requiring states to have elected representatives, offering financial incentives, and sometimes supporting challengers to the throne. Several princely states acceded to India under a set of conditions, only to be merged with rival states, or to relinquish further control.
 
