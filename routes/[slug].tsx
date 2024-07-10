@@ -18,7 +18,7 @@ export default function PostPage(props: PageProps<Post>) {
       <Head>
         <style dangerouslySetInnerHTML={{ __html: CSS }} />
         <style dangerouslySetInnerHTML={{ __html: 'ul { list-style: circle !important; }' }} />
-
+        <style dangerouslySetInnerHTML={{ __html: 'main, main p { font-family: -apple-system, "system-ui", "Segoe UI", Helvetica, Arial, sans-serif, BabelStoneFlags, "Apple Color Emoji", "Segoe UI Emoji"; }' }} />
       </Head>
       <main class="max-w-screen-md px-4 pt-16 mx-auto">
         <h1 class="text-5xl font-bold">
