@@ -55,14 +55,10 @@ There are no universes where they make a mistake and are found out, except when 
 In a futuristic universe, Amanda assumes the identity of her alternate self with biometrics, but what happens the other times? Maybe in inhabited Chicagos, Jason uses his Illinois driver's license and credit card, and that's all connected on the backend.<br/>
 Maybe they should carry gold and diamonds.
 
-One of Daniela's friends, Blair, is a universe-jumper in the alt-universe. But they never run with this. She and Leighton, the other Black character with additional story in the TV show, have a bitter or nihilistic phase.<br/>
+One of Daniela's friends, Blair, is a universe-jumper in the alt-universe. But they never run with this. She and Leighton, the other Black character with story added in the TV show, have a bitter or nihilistic phase.<br/>
 Leighton's life is changed in both timelines by investing in Jason's project.<br/>
 He is also the only character shown to be gay.<br/>
 Blair helps Daniela talk through her relationship issues, but the dialogue and Jason2's social media check don't reveal much of her personal life.
-
-<img src="/blog-images/dmscreen1.jpg" width="550"/><br/>
-*Blair and Daniela looking at a painting*
-<br/>
 
 Another family friend, Ryan, wins a Nobel-like prize which he graciously says ought to be awarded to Jason. In the alt universe, Jason2 did win the prize years earlier. I interpreted this to mean that they were physicists with a friendly rivalry. But Ryan makes neurochemicals? Ryan offers Jason a job (?), and when he sees chemicals, assumes that Jason developed them (??) weeks after quitting his physics professor job (???).
 
