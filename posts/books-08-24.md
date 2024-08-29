@@ -5,7 +5,7 @@ snippet: Reviewing the end of *The Clinton Tapes*
 tags: books,historyseries,clinton
 ---
 
-It took a month,but I finished! The idea was to split my reviews into first and second term, but the halfway point was around January 1996. My bad. <br/>
+It took another month,but I finished! The idea was to split my reviews into first and second term, but the halfway point was around January 1996. My bad. <br/>
 I'm also discovering that the hardcover has the subtitle *Wrestling History with the President*. Maybe they can bring that back for
 "WWE Wrestling History with President Trump"
 
@@ -24,10 +24,10 @@ The secrecy of the diary / historian project is challenging. At one point Branch
 The title is "Clinton Without Apologies". A credulous subtitle adds "Confessions of a former skeptic". In explaining their shared history to a new audience, Branch has time to think about this "naive and cynical" classmate who has surpassed everyone to become "a nobler figure".
 
 In 1996–98, we get the first mentions of cell phones and the internet, and Al Gore and Newt Gingrich seem to be the first to 'get it'. Unusual alliances form over taxing tobacco (alienating the south, but finding support from Mormon conservatives).<br/>
-We witness Clinton's first giddy uses of the ill-fated line-item veto, and several tangents about Chinese funding of the 1996 campaign (a lengthy scandal which I'd never heard of, plus Gore's visit to Hsi Lai Temple). Intelligence briefings tie TWA Flight 800 to Iran, before it is found to be an accident.<br/>
+We witness Clinton's first giddy uses of the ill-fated line-item veto, and several tangents about Chinese funding of the 1996 campaign (a lengthy scandal which I'd never heard of, along with Gore's visit to Hsi Lai Temple). Intelligence briefings tie TWA Flight 800 to Iran, before it is found to be an accident.<br/>
 Bill wants to be a Renaissance man outside politics, discussing Elvis trivia, a visit to the set of *Sneakers* (pre-presidency), telling the Braves that their new stadium will have fewer foul outs, etc.
 
-A reflection on the Kerner Commission inspires Clinton to make the [One America Initiative](https://en.wikipedia.org/wiki/One_America_Initiative), which seems mostly lost to history.<br/>
+A reflection on race and the Kerner Commission inspires Clinton to make the [One America Initiative](https://en.wikipedia.org/wiki/One_America_Initiative), which seems mostly lost to history.<br/>
 On other social issues, Clinton expresses regrets over signing the Defense of Marriage Act (DOMA). <br/>
 George W. Bush is described as "miserable and hostile" in private, despite the post-presidency image.
 
@@ -65,7 +65,7 @@ At the Ford museum in Grand Rapids, I learned about Betty Ford's campaigning on 
 
 ## Where are they now?
 
-I broke from my previous standard and included a bunch of people here which weren't in the summary.
+I broke from my previous standard and included a bunch of people here who weren't in the summary.
 
 Yah Lin Trie, who ran the Clintons' favorite Chinese restaurant in Little Rock, later [admitted to accepting payments for access to events](https://www.tampabay.com/archive/1997/07/30/trie-tried-to-use-ties-to-clinton-agent-says/).
 I didn't find any news about him after 2000. Years later co-conspirator Ng Lap Seng was arrested by the FBI for separate UN bribery issues, ending with repatriation to Macau. *Arkansas Online* reported on Trie's former restaurant changing ownership again in 2015.
@@ -77,11 +77,13 @@ As described in the book, PM Nawaz Sharif was spared from execution with the int
 General Joseph Ralston, who had an affair revealed during his vetting for the Joint Chiefs, continued on as vice chairman, then got a role at NATO, then was Bush's Special Envoy against the Kurdish PKK. Despite many online sources claiming this is an ongoing position, he resigned in 2007.<br/>
 In 2009 Ralston shared several Clinton-era stories about international military cooperation: https://www.crestedbutteforum.org/speakers/general-joseph-ralston-the-uss-evolving-roll-in-international-security
 
-Turki al-Faisal, Clinton's former classmate and Saudi intelligence chief during the 90s, later served as ambassador to the UK and the US. He takes legal action against claims of terrorism ties. After retiring in 2007, he continues to be active in diplomacy / think tank / media circles.
+Turki al-Faisal, Clinton's former classmate and Saudi intelligence chief during the 90s, reportedly asked the
+ Taliban to extradite bin Laden, but these talks failed after Clinton's missile strikes.
+Al-Faisal later served as ambassador to the UK and the US. He takes legal action against claims of terrorism ties. After retiring in 2007, he continues to be active in diplomacy / think tank / media circles.
 
 Golfer Greg Norman offers Clinton the choice of a scoring round or a teaching round of golf. I don't know anything about golf, but it strikes me as a kind way to engage with fans. Norman is now CEO of the Saudi-backed LIV Golf tournament.
 
-The author describes a last-minute, peaceful change to succession in the Jordanian monarchy in 1999. In 2021, the king's half-brother was accused of a plot to overthrow him, and placed under house arrest.
+The author describes a last-minute, peaceful change to succession in the Jordanian monarchy in 1999. In 2021, the king's half-brother was accused of a plot to overthrow him, and remains under house arrest.
 
 Author Gabriel García Márquez connected with the Clintons [on Martha's Vineyard](https://wlm3.com/2018/06/11/a-footnote-to-the-previous-post-re-bill-clinton-and-gabriel-garcia-marquez/).
 *The Clinton Tapes* captures Bill reading an early English translation of *News of a Kidnapping*. Márquez died in 2014. His papers include letters from both Clinton and Castro.<br/>
@@ -89,7 +91,7 @@ In 2022, *News of a Kidnapping* was adapted into a TV miniseries on Amazon Prime
 
 ## Updates to Previous Reads
 
-I took an initial look at a Plains Indian Sign Language book for decolonization reads, and it noted that the term *deaf-mute* was once used for virtually anyone Deaf; there was less investment into speech therapy back then. This adds some vagueness to my grandma's Deaf family in Jacksonville.
+I took an initial look at a Plains Indian Sign Language book for decolonization reads, and it noted that the term *deaf-mute* was once used for virtually anyone Deaf; there was less investment into speech therapy back then. This adds some vagueness to records of my grandma's Deaf ancestors in Jacksonville.
 
 I already unsubscribed to "Little Chinese Everywhere" but YouTube recommended her video where she's returned to Xinjiang and is invited into a Uyghur home.
 The comments are getting… weird.
