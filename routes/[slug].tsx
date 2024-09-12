@@ -17,17 +17,28 @@ export default function PostPage(props: PageProps<Post>) {
     <>
       <Head>
         <style dangerouslySetInnerHTML={{ __html: CSS }} />
-        <style dangerouslySetInnerHTML={{ __html: 'ul { list-style: circle !important; }' }} />
-        <style dangerouslySetInnerHTML={{ __html: 'main, main p, main h2 { font-family: -apple-system, "system-ui", "Segoe UI", Helvetica, Arial, sans-serif, BabelStoneFlags, "Apple Color Emoji", "Segoe UI Emoji"; }' }} />
+        <style
+          dangerouslySetInnerHTML={{
+            __html: "ul { list-style: circle !important; }",
+          }}
+        />
+        <style
+          dangerouslySetInnerHTML={{
+            __html:
+              'main, main p, main h2 { font-family: -apple-system, "system-ui", "Segoe UI", Helvetica, Arial, sans-serif, NEFlags, "Apple Color Emoji", "Segoe UI Emoji"; }',
+          }}
+        />
       </Head>
       <main class="max-w-screen-md px-4 pt-16 mx-auto">
         <h1 class="text-5xl font-bold">
           <a href="/">{yum ? "ND Food & Travel Posts" : "Georeactor Blog"}</a>
         </h1>
-        <a class="float-right" href="/rss/feed">RSS Feed</a>
-        <br/>
-        <br/>
-        <h3 class="text-3xl font-bold">{post.title.replace('~', '#')}</h3>
+        <a class="float-right" href="/rss/feed">
+          RSS Feed
+        </a>
+        <br />
+        <br />
+        <h3 class="text-3xl font-bold">{post.title.replace("~", "#")}</h3>
         <time class="text-gray-500">
           {new Date(post.publishedAt).toLocaleDateString("en-us", {
             year: "numeric",
@@ -35,17 +46,32 @@ export default function PostPage(props: PageProps<Post>) {
             day: "numeric",
           })}
         </time>
-        <br/><br/>
-        {!yum && <div class='space-x-5'>
-          Tags: {post.tags.length ? post.tags.map(p => <a href={'/topics/' + p}>{p}</a>) : null}
-        </div>}
+        <br />
+        <br />
+        {!yum && (
+          <div class="space-x-5">
+            Tags:{" "}
+            {post.tags.length
+              ? post.tags.map((p) => <a href={"/topics/" + p}>{p}</a>)
+              : null}
+          </div>
+        )}
         <div
           class="mt-8 markdown-body"
           dangerouslySetInnerHTML={{ __html: render(post.content) }}
         />
 
         <script async src="//static.getclicky.com/101402051.js"></script>
-        <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101402051ns.gif" /></p></noscript>
+        <noscript>
+          <p>
+            <img
+              alt="Clicky"
+              width="1"
+              height="1"
+              src="//in.getclicky.com/101402051ns.gif"
+            />
+          </p>
+        </noscript>
       </main>
     </>
   );
