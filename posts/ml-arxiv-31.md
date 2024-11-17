@@ -144,6 +144,9 @@ Aligned large language models (LLMs) are vulnerable to jailbreaking attacks, whi
 I kept thinking that I had covered this, but maybe it's been this same paper languishing in a draft?<br/>
 Having the LLM reword, rephrase, or summarize the previous prompt defends against attempts to break the model with unusual tokens and highly-tuned prompts.
 
+Edit: I might have been thinking of "SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks"
+https://arxiv.org/abs/2310.03684
+
 <hr/>
 
 <blockquote>
