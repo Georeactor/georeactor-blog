@@ -141,6 +141,8 @@ https://nutrient-matters.com/recipe/yogurt-pasta-macarona-bi-laban/
 Looked great on Instagram, tried it out.
 This was the first time I bought pine nuts (which I associate with pesto) and it wasn't so difficult to brown them in a frying pan.<br/>
 If I made it again I'd add more spice to the meat, since the "sauce" is mostly garlic and yogurt.
+After this photo I followed the directions to add in paprika, but I didn't really get a good photo because as
+you can see, it's a mess.
 
 <img src="/blog-images/recipe-0225-4.jpg" width="400"/>
 
