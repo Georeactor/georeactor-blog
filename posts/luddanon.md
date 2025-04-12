@@ -1,7 +1,7 @@
 ---
 title: A Theory of LuddAnon
 published_at: 2025-04-05T12:55:00.000Z
-tags: prose, politics
+tags: prose,politics
 ---
 
 Chronically online people may be familiar with the term 'BlueAnon' to mock conspiracies at the opposite political polarity of 'QAnon'. The two don't have equivalent followings, but 🤷‍ <br/>
