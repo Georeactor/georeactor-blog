@@ -5,7 +5,7 @@ export const handler: Handlers<Post[]> = {
   async GET(req, ctx) {
     const yum = req.headers.get("host")?.includes("yum");
     const posts = await getPosts(yum ? "life" : false);
-    return ctx.render(posts);
+    return ctx.render(posts.slice(0, 20));
   },
 };
 

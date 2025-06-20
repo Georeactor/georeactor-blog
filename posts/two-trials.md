@@ -54,13 +54,13 @@ A lot of ink has been spilled comparing the first and second trials; here's my t
 - There was an expert witness in this trial without a bachelors degree. As a fellow dropout, I was interested in how this would play out. He is already working in digital forensics, but every few years moves his projected graduation date into the future. This put him in an awkward position where his LinkedIn and company bio suggested he had graduated. The defense also challenged him on a report where he misread specs over megabits/megabytes and kilobits/kilobytes. I can see how that 8x error looks bad to the jury. Unfortunately this turned out to be a significant problem for the expert, because he offered to read more data off of the vehicle's chip when he really couldn't.
 
 This was an interesting trial to watch on Emily Baker's channel because she and her audience overwhelmingly supported Karen Read. That came up in nicknames for witnesses, negativity about the prosecutor's voice and tactics, complaints about the judge, and virtually every chat comment. I do wish they could do more to quash comments who hate on witnesses for their appearance, voice, or body language. Some viewers think that the federal government has been waiting to charge the witnesses, which is a bit nuts.<br/>
-The sides on the Karen Read trial are refreshingly nonpartisan, but there's a funny trend where people assume a MAGA/lib divide, usually because they know their political opponents are stupid.
+The sides on the Karen Read trial are refreshingly nonpartisan, but there's a funny trend where people assume a MAGA/lib divide.
 
 Finally let's talk verdict forms.<br/>
 In the first trial, the defense [anticipated a situation](https://www.reddit.com/r/KarenReadTrial/comments/1dp3o92/defendants_emergency_motion_to_amend_the_jury/)
 where the jury did not understand how to mark 'not guilty' on some charges' forms.
-The judge rejected this because the form follows standard practice for Massachusetts.
-That jury reportedly ruled out murder charges, but could not agree on the other charges. The judge failed to poll the jury and get that info out while declaring a mistrial, so after some legal debate the prosecution was allowed to retry the murder charge.<br/>
+The judge rejected this because the form is standard for Massachusetts.
+That jury reportedly ruled out murder charges, but could not agree on the other charges. The judge failed to poll the jury and get that info out in open court while declaring a mistrial, so after some legal debate the prosecution was allowed to retry the murder charge.<br/>
 In this trial, the jury came back with questions about whether they could find someone guilty of the OUI/DUI (line 5 below) without the more significant charges. There was also a delay just before the verdict was read, which was not fully explained, but may have been a problem with the form.
 
 <img src="/blog-images/jury.jpg"/><br/>
