@@ -43,7 +43,7 @@ New to me: https://en.wikipedia.org/wiki/Big_Excursion removal of Muslims from B
 Also in Istria (northern coast of Croatia) there are several reminders of when it was controlled by Italy or home to many Italians who fled as it was incorporated into communist Yugoslavia.
 For example, the tiny island of Susak which has its own diaspora: https://en.wikipedia.org/wiki/Susak
 
-Ranked Choice Voting has reached more voters over the past ~5 years, but it may be losing popularity with Alaska recently voting to repeal it, and other states failing to pass it. In 2021, NYC embarrassingly included test ballots in their unofficial counts (I remember another bug, but maybe I'm wrong). RCV in Alaska seemed wounded after Sarah Palin's loss in a three-way race in 2022. In  Nevada, where I witnessed a hybrid RCV-caucus election in 2020, voters favored expanding it in 2022 but failed on this second round of voting required for ballot initiatives.
+Ranked Choice Voting has reached more voters over the past ~5 years, but it may be losing popularity with Alaska recently voting (update: it actually won by a slim margin), and other states failing to pass it. In 2021, NYC embarrassingly included test ballots in their unofficial counts (I remember another bug, but maybe I'm wrong). RCV in Alaska seemed wounded after Sarah Palin's loss in a three-way race in 2022. In  Nevada, where I witnessed a hybrid RCV-caucus election in 2020, voters favored expanding it in 2022 but failed on this second round of voting required for ballot initiatives.
 
 Using Welsh to block immigration into Australia: https://en.wikipedia.org/wiki/Attempted_exclusion_of_Egon_Kisch_from_Australia
 
