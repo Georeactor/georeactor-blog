@@ -33,7 +33,7 @@ From Bandar Lampung, there are two train routes, one to Lubuklinggau, the other 
 
 <img src="/blog-images/sumatra4.png"/><br/>
 
-Palembang is a larger city (and then name of an ethnic group). There's a light rail open since 2018 for the Asian Games: https://en.wikipedia.org/wiki/Palembang_LRT which I should include in my project. WikiTravel says the signature food is pempek, a "fried fishcake […] eaten with a spicy dips called cuko".<br/>
+Palembang is a larger city (and the name of an ethnic group). There's a light rail open since 2018 for the Asian Games: https://en.wikipedia.org/wiki/Palembang_LRT which I should include in my project. WikiTravel says the signature food is [pempek](https://www.youtube.com/watch?v=E7ttbjqR-RA), a "fried fishcake […] eaten with a spicy dips called cuko".<br/>
 I don't have much info on Lubuklinggau; I assume most travelers are going to Bengkulu on the west coast?
 
 There are some mini cars on rails (Motor Lori Ekspress) in a mining area in the jungle north of Bengkulu. I think you'd need to book a driver/guide for a day or two, etc. to see this. https://www.youtube.com/watch?v=vYM3aXwsarM
@@ -55,9 +55,9 @@ The final passenger rail segment is Cut Meutia, a 14-mile segment limited to the
 
 If I finish the Sumatra trip in Aceh, it'd be good to look for a retreat at the end of the road. The capital is not a typical tourist destination because the province has strict Islamic law.
 
-There's a ferry connection to the island of Sabang. They have a large 'kilometer 0' monument. One comment on Google Maps reads "You haven't been to Sabang if you haven't bought AG Sabang Green Bean Cake" (?). Popular with Indonesian tourists: https://www.instagram.com/sabangkayak/
+There's a ferry connection to the island of Sabang. They have a large 'kilometer 0' monument. One comment on Google Maps reads "You haven't been to Sabang if you haven't bought AG Sabang [Green Bean Cake](https://www.youtube.com/watch?v=yTngMoicZiU)". Popular kayak spot with Indonesian tourists: https://www.instagram.com/sabangkayak/
 
-On the west coast, at the southern border of Aceh, the West Banyak Islands are a hot destination. I found one tourist account ( https://where2.site/2017/10/31/kayaking-the-banyak-islands/ ) which is detailed and gives tourist tips (if you go between islands, it is the open sea, and it seems important to be an experienced swimmer or to bring a guide). Kimo Resort has an Instagram: https://www.instagram.com/kimoresort
+On the west coast, at the southern border of Aceh, the West Banyak Islands are a hot destination. I found one tourist account ( https://where2.site/2017/10/31/kayaking-the-banyak-islands/ ) which is detailed and gives tourist tips (if you kayak between islands, it is the open sea, and it seems important to be an experienced swimmer or to bring a guide). Kimo Resort has an Instagram: https://www.instagram.com/kimoresort
 
 I did some Googling of other islands. Nias and Bangka have some resorts and beaches, but there don't seem to be many 'attractions'.
 
@@ -69,11 +69,11 @@ Bahasa Indonesia is seen as the 'lingua franca'. But do people speak it at home?
 
 The Malay language was core to the Johor-Riau Sultanate and Riau-Lingga Sultanate which is why you'll see such high numbers in northern Sumatra and the Riau Islands there (I assume we're counting all forms of Malay as Bahasa speakers here, idk). The Surabaya region has a really low % Bahasa and I was able to use my Duolingo words there, so the map might not matter, but it is a little interesting.
 
-The next map, which I found on a Christian missionary site, suggests that southern fork rail area between Lampung, Palembang, and Bengkulu has multiple ethnic groups. This agrees with the prior info with Aceh/Acehnese and Riau Malay being the major groups in the north.
+The next map, which I found on a Christian missionary site, shows that southern fork rail area between Lampung, Palembang, and Bengkulu has multiple ethnic groups. In the north, this agrees with the prior info with Aceh/Acehnese and Riau Malay being the major groups up there.
 
 <img src="/blog-images/sumatranine.jpg"/><br/>
 
-Wikipedia has a different map of North Sumatran languages.  A lot more colors, but I would say these are… mostly in agreement? Except that this map has filled in the white inland area with a lineup of Batak languages.
+Wikipedia has a different map of North Sumatran languages.  A lot more colors, but I would say these are… mostly in agreement? Except that this map has filled in the white inland area with a line of Batak languages.
 
 <img src="/blog-images/sumatraten.png"/><br/>
 
