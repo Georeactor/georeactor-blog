@@ -19,7 +19,7 @@ Some things which I learned:
 <ul>
     <li>
         Seniors, particularly men and residents of SROs, were at the highest risk if they were socially isolated. The county could not find next-of-kin for many victims.<br/>
-        At first glance the city's "unique weather event" explanation is more digestible than this "social autopsy" but what we're opening up here is information beyond race, age, and poverty. If you can walk, your building has a common area with AC, or you can call a friend to get a ride to the movies, yes that's public health!
+        At first glance the city's "unique weather event" explanation is more digestible than this "social autopsy" but what we're opening up here is information beyond race, age, and poverty. If you can walk in the neighborhood, your building has a common area with AC, or you can call a friend to get a ride to the movies, yes that's public health!
     </li>
     <li>
         Isolation often comes from a fear of crime, and reinforces that fear, and sometimes it was a valid fear (empty lots attracting drug dealers, recovering addicts <a href="https://www.chicagotribune.com/1995/01/21/folly-to-mix-seniors-and-addicts/">placed</a> in senior/disabled housing). Many seniors would not answer their doors.
@@ -31,7 +31,7 @@ Some things which I learned:
         Opening up fire hydrants means a loss of water pressure in buildings. No water and sometimes no power for AC, intensifies problems. In NYC you can request a <a href=" https://chicagoreader.com/arts-culture/fire-hydrants-offer-the-promise-of-a-lake-on-every-corner/">spray cap</a> for your hydrant. Klinenberg refers to this cap, but currently I found only an application to use hydrant water for festivals or urban gardens.
     </li>
     <li>
-        Death rates were particularly high in Black neighborhoods and low in Latino neighborhoods. Despite hearing theories about biology or culture, Klinenberg has a lot to say about the geography of neighborhoods (a lot of Jane Jacobs), and multi-generational households. I feel like the neighborhood descriptions often reduce to streets with dense retail and less crime, and multi-generational households are a culture thing, but OK.
+        Death rates were particularly high in Black neighborhoods and low in Latino neighborhoods. Despite hearing theories about biology or culture, Klinenberg has a lot to say about the geography of neighborhoods (channeling Jane Jacobs), and multi-generational households. I feel like the neighborhood descriptions often reduce to streets with dense retail and less crime, and multi-generational households are a culture thing, but OK.
     </li>
     <li>
         I thought it was interesting to follow the weekend shift at the <i>Tribune</i> realizing that they were in the middle of a newsworthy crisis, even though reporting works totally differently in 2025.
@@ -97,7 +97,7 @@ I was waiting for the inter-terminal train at the Denver airport when there was 
 
 Ten years ago, crowd crush events were commonly called 'stampedes' and fatalities described as  'trampled'. In 2015, over two thousand pilgrims died during the Hajj. The confusion around what actually happened, and the scale of disaster [changed media coverage](https://www.theguardian.com/world/2015/oct/03/hajj-crush-how-crowd-disasters-happen-and-how-they-can-be-avoided). Terms like crowd crush and crowd collapse began to appear in US media. After the Itaewon crowd crush in 2022, editors mostly removed 'stampede' from this and other Wikipedia articles. Changing language removes blame from a panicked crowd, and helps people understand the risk.
 
-There's some remarkable overlap with this and the 'heat wave' deaths. Lacking an intuition of th eproblem, people would ask: what made this one event turn deadly? Can we perceive and understand this well enough to prevent it? After Itaewon, Seoul and Tokyo have [banned their largest gatherings](https://www.reddit.com/r/Tokyo/comments/1g8cplv/no_events_for_halloween_on_shibuya_streets/), rather than traffic planning or forming a better response plan. Saudi Arabic has increased the number of surveillance cameras and trialed smart wristbands in Mecca.
+There's some remarkable overlap with this and the 'heat wave' deaths. Lacking an intuition of the problem, people would ask: what made this one event turn deadly? Can we perceive and understand this well enough to prevent it? After Itaewon, Seoul and Tokyo have [banned their largest gatherings](https://www.reddit.com/r/Tokyo/comments/1g8cplv/no_events_for_halloween_on_shibuya_streets/), rather than traffic planning or reacting in the moment. Saudi Arabia has increased the number of surveillance cameras and trialed smart wristbands in Mecca.
 
 During last year's Hajj, over 1,300 pilgrims died from extreme heat.
 
