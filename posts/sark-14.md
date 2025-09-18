@@ -1,7 +1,7 @@
 ---
 title: Landing in Sark
 published_at: 2025-09-18T13:22:00.000Z
-snippet: the final episode
+snippet: the final episode of the Sark emoji
 tags: sark
 ---
 
