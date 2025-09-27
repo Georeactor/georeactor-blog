@@ -33,7 +33,7 @@ Traditional boundaries surfaced at odd times in the 20th century, such as [areas
 
 After India and Bangladesh [swapped territory in 2015](https://en.wikipedia.org/wiki/India%E2%80%93Bangladesh_enclaves), the only remaining 'double enclaves' are here and between UAE/Oman [I was thinking about Cypriot villages within Dhekelia (UK) on the island of Cyprus, but Dhekelia has access to the sea and that gets into enclave/exclave terminology].
 
-The borders of Baarle have been set since 1995. They had previously been somewhat defined [in  1974](http://home.scarlet.be/edragas/ProcesVerbaal1974.html), with descriptive borders such as [translated]
+The borders of Baarle have been set since 1995. The border had previously been defined [by landmarks in 1974](https://www.grenspalen.nl/archief/Baarle-treaties-PV1974.pdf), with descriptions such as [translated]
 
 > [the border] is formed by the middle of a ditch in an approximately northwesterly direction up to a stone crossing the old road from Baarle-Nassau to Hoogstraten. Thereafter the boundary runs in an approximately westerly direction, approximately parallel to said track, and is formed by an approximately straight line through the center of several ditches and ditches over a post called "afgevild paard" *[skinned horse]* to a point 1.8m south of a stone. The border then follows a line marked by pickets in an approximately westerly direction to the northeast side of a ditch, crossing the Hoogstraten…
 
@@ -47,7 +47,7 @@ Some uninformed theories for the longevity of Baarle:
 
 ## How wild is the border in 2023?
 
-I stayed at Den Engel, which has a nice restaurant and fry counter, with ~10 rooms above. Their outdoor seating comes up to the border, but clearly stays within the Netherlands:
+I stayed at Den Engel, which has a nice restaurant and fry counter, with ~10 rooms above. Their outdoor seating comes up to the border, making it a good candidate for the late-night rearranging of tables, but it currently clearly stays within the Netherlands:
 
 <img src="/blog-images/baarle-3.jpeg" alt="Outdoor dining with a border shown with tiles on the sidewalk"/>
 <br/>
@@ -57,19 +57,19 @@ There was some care taken either when building or when drawing borders. Despite 
 <img src="/blog-images/baarle-4.png" alt="OpenStreetMap screenshot with buildings having non-square shapes to fit inside the border"/>
 <br/>
 
-Though the historical Baarle could have been more criss-crossed by borders, it seemed to have been simplified. I decided to search the map to find which buildings currently sit in both countries. Only a few are open to the public:
+Though the historical Baarle could have been more criss-crossed by strange borders, today it is more clarified. I decided to search the map for buildings currently sitting in both countries. Only a few are open to the public:
 
 - Drankenhandel Hoefnagels - a beer store embracing its border status. This is part of the world's smallest counter-enclave. Before both countries adopted the Euro, they had two prices and two cash registers. The border goes right through where the beer bottles meet above the door. It's closed on Mondays.
 
 <img src="/blog-images/baarle-5.jpeg" alt="A beer store and parking lot with a mural showing Dutch and Belgian beers meeting"/>
 <br/>
 
-- Goossens wonen en slapen - this is an ordinary furniture store. Google gives its address as a service entrance in the Netherlands, but the parking and customer entrance are totally in Belgium. The Dutch side had this odd siding which looks like filled (or slideable?) doorways.
+- Goossens wonen en slapen - this is an ordinary furniture store. Google gives its address as a service entrance in the Netherlands, but the parking and customer entrance are totally in Belgium. The Dutch side had this odd service entrance (?).
 
 <img src="/blog-images/baarle-6.jpeg" alt="A blank wall"/>
 <br/>
 
-- Zeeman (clothing store with cleaning and kitchen sections; think TJ Maxx). On Sunday night there were kids doing bicycle tricks over the border on the sidewalk. Inside there was a cute yet understated border marker. I bought slippers and Q-tips.
+- Zeeman (clothing store with cleaning and kitchen sections; think TJ Maxx) has an entrance on the Dutch side. On Sunday night there were kids doing bicycle tricks over the border on the sidewalk. There was a cute yet understated border marker in the window. I bought slippers and Q-tips.
 
 <img src="/blog-images/baarle-7.jpeg" alt="An aisle of a department store with a stripe of color and two flags representing the border."/>
 <br/>
