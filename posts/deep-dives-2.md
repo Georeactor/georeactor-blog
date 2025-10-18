@@ -23,7 +23,7 @@ The Equal Rights Amendment got a nod from Biden (?). New-format talk shows were 
 
 ## Culture
 
-- Su Meck wrote a book about her amnesia recovery, and did a book tour in 2013–14. The most recent job on her LinkedIn started in 2018, and her Twitter stopped in 2021. Maybe she's taking an internet break? Can't help but wonder if she is alright.
+- Su Meck wrote a book about her amnesia recovery, and did a book tour in 2013–14. **Solved: she has a Facebook which seems active as of late 2024**
 - Fast Radio Bursts are as scary as any other big cosmological thing out there. Something one kilometer wide in another galaxy periodically dumps out more energy than the sun and we don't know why?
 - Is the McDonald's employee who recognized Luigi a super-recognizer or was something else going on?
 - I am often reminded of a Tweet (?) that future historians will never believe that "Taylor Lorenz" was one real person. Every project that she does seems to polarize people not politically, but on whether each piece is doxxing, platforming, etc. Her channel now is often long-form content about infuriating characters, or how someone dealt with infuriating trolls, stuff like snark subreddits which are extremely relevant to TikTok and the more insane parts of online life, but I can't picture someone in my real life even acknowledging.

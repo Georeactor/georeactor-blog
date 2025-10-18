@@ -5,7 +5,7 @@ snippet: 10 recipes, 1 fail this summer
 tags: food,nyc
 ---
 
-I haven't written a new recipes post in month, and I have a lot of asides in this post including a NYC visit and thoughts about "Food Business". It might be time for a reformat?
+I haven't written a new recipes post in months, and I have a lot of asides in this post including a NYC visit and thoughts about "Food Business". It might be time for a reformat?
 
 ## Asides
 
