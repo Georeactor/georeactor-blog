@@ -22,13 +22,7 @@ export async function getPosts(topic): Promise<Post[]> {
   }
   let posts = await Promise.all(promises) as Post[];
   if (topic) {
-    if (topic === "life") {
-      posts = posts.filter(p => p.tags.includes("food") || p.tags.includes("travel"))
-    } else {
-      posts = posts.filter(p => p.tags.includes(topic))
-    }
-  } else {
-    posts = posts.filter(p => !p.tags.includes("food") && !p.tags.includes("travel"));
+    posts = posts.filter(p => p.tags.includes(topic))
   }
   posts.sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime());
   return posts;

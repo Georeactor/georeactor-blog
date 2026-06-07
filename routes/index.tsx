@@ -3,19 +3,17 @@ import { getPost, getPosts, Post } from "@/utils/posts.ts";
 
 export const handler: Handlers<Post[]> = {
   async GET(req, ctx) {
-    const yum = req.headers.get("host")?.includes("yum");
-    const posts = await getPosts(yum ? "life" : false);
+    const posts = await getPosts();
     return ctx.render(posts.slice(0, 20));
   },
 };
 
 export default function BlogIndexPage(props: PageProps<Post[]>) {
   const posts = props.data;
-  const yum = posts.find(p => p.tags.includes("food") || p.tags.includes("travel"));
   return (
     <main class="max-w-screen-md px-4 pt-16 mx-auto">
       <h1 class="text-5xl font-bold">
-        {yum ? "ND Food & Travel Posts" : "Georeactor Blog"}
+        {"Georeactor Blog"}
       </h1>
       <a class="float-right" href="/rss/feed">RSS Feed</a>
       <div class="mt-8">

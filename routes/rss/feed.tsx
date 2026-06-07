@@ -4,10 +4,9 @@ import { render } from "$gfm";
 
 export const handler: Handlers<Post[]> = {
     async GET(req) {
-      const yum = req.headers.get("host")?.includes("yum");
-      const posts = (await getPosts(yum ? "life" : false)).slice(0, 10);
+      const posts = (await getPosts(false)).slice(0, 10);
 
-      return new Response(rssFromPosts(posts), 
+      return new Response(rssFromPosts(posts),
         {
         headers: { "Content-Type": "application/rss+xml; charset=utf-8" },
       });

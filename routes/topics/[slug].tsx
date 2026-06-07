@@ -19,25 +19,16 @@ export default function BlogCategoryPage(props: PageProps<TopicProps>) {
   return (
     <main class="max-w-screen-md px-4 pt-16 mx-auto">
       <h1 class="text-5xl font-bold">
-        Georeactor Blog
+        {"Georeactor Blog"}
       </h1>
       {posts.length && topic.length ? <h3 class="text-xl font-bold">
-        <a href={'/topics/' + topic}>Subcategory: {topic}</a>
-      </h3> : null}
-      <div class="inline-block float-right">
-        RSS Feeds:&nbsp;&nbsp;
-        {posts.length && topic.length ? <a href={'/rss/topics/' + topic}>
-          ({topic})
-          </a> : null }
-        &nbsp;&nbsp;
-        <a href="/rss/feed">(all)</a>
-      </div>
+        <a href={'/topics/' + topic}>
+          {"Subcategory: " + topic}
+        </a>
+      </h3> : ""}
       <div class="mt-8">
         {posts.map((post) => <PostCard post={post} />)}
       </div>
-
-      <script async src="//static.getclicky.com/101402051.js"></script>
-      <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101402051ns.gif" /></p></noscript>
     </main>
   );
 };
