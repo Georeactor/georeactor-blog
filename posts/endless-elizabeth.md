@@ -9,7 +9,7 @@ Nathan Fielder just released a trailer for *You Can See Everything*, a documenta
 
 - Despite the news reports, the *Bad Blood* book, *The Dropout* TV series, podcast, *The Inventor* documentary, a trial, and an ongoing Twitter account, there is a core audience which can't get enough of Elizabeth Holmes.
 - It's an information-poor discussion - people often talk about Theranos as Silicon Valley and VC cluelessness, or an invention sabotaged by Big Pharma, when it was actually a company peculiarly backed by family foundations and making deals with pharmacy and grocery giants.
-- The story is also very gendered - everyone focuses on Holmes changing her voice, charming these old guys; is she a "girlboss"; did she have children to manipulate the justice system; the relationship with Sunny Balwani was him being abusive, or her setting up a fall guy (*The Dropout* TV series [leaned on this a bit](https://www.youtube.com/watch?v=85DUWw1rQY0))
+- The story is also very gendered - everyone focuses on Holmes changing her voice, charming these old guys; is she a "girlboss"; did she have children to manipulate the justice system; the relationship with Sunny Balwani was him being abusive, or her setting up a fall guy (*The Dropout* TV series [leaned on this a bit](https://www.youtube.com/watch?v=85DUWw1rQY0)) (edit: [oops, I mean this one](https://www.youtube.com/watch?v=aLTAk9f7f0g))
 
 There is also something to the whole 'charm' story where I'm not going to be able to find the root of it, but aside from the Shultz family story, one of the witnesses (a former lab director) came to Holmes's house in 2022 to apologize for his testimony.
 
